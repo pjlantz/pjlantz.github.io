@@ -12,7 +12,7 @@ The secure world contains the trusted OS denoted OP-TEE OS [4]. On top of this O
 
 <p align="center">
   <img src="https://github.com/pjlantz/pjlantz.github.io/raw/master/docs/assets/overview.png?raw=true" alt="TEE overview" width="50%" height="50%"/>
-      </br><em>Figure 1: Overview of TEE - from Linaros presentation [5]</em>
+      <br /><em>Figure 1: Overview of TEE - from Linaros presentation [5]</em>
 </p>
 
 The normal world (Linux userspace/kernel) can interact with these applications using client applications (CAs) and the API exposed by the TEE subsystem. A CA can open a session towards a specific TA and invoke functions that the TA implements. Passing of any arguments back and forth between the TA and CA is done using shared memory.
@@ -30,7 +30,7 @@ The interaction between a CA and TA using all relevant syscalls is described nex
 
 <p align="center">
   <img src="https://github.com/pjlantz/pjlantz.github.io/raw/master/docs/assets/overview2.png?raw=true" alt="Session between CA and TA" width="50%" height="50%"/>
-      </br><em>Figure 2: Session between CA and TA - from Linaros presentation [5]</em>
+      <br /><em>Figure 2: Session between CA and TA - from Linaros presentation [5]</em>
 </p>
 
 Much of the communication between clients and the TEE is opaque to the driver. The main job for the driver is to manage the context, receive requests from the clients, forward them to the TEE and send back the results [2].
@@ -438,7 +438,7 @@ To summarize, the issue in regards to exploitation is that both the free and UAF
 
 <p align="center">
   <img src="https://github.com/pjlantz/pjlantz.github.io/raw/master/docs/assets/Threads.png?raw=true" alt="Threads involved" width="60%" height="60%"/>
-       </br><em>Figure 3: Threads involved in the exploit code</em>
+       <br /><em>Figure 3: Threads involved in the exploit code</em>
 </p>
 
   
