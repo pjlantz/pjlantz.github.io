@@ -10,4 +10,5 @@ A TEE (Trusted Execution Environment) is a trusted OS running in some secure env
 
 The secure world contains the trusted OS denoted OP-TEE OS (4). On top of this OS it is possible to have so called Trusted Applications (TAs) running which can perform some operations in the isolated environment, see Figure 1. The normal world (Linux userspace/kernel) can interact with these applications using client applications (CAs) and the API exposed by the TEE subsystem. A CA can open a session towards a specific TA and invoke functions that the TA implements. Passing of any arguments back and forth between the TA and CA is done using shared memory.
 
-![Session between CA and TA](https://github.com/pjlantz/pjlantz.github.io/blob/master/overview.png)
+![Session between CA and TA](/pjlantz.github.io/assets/overview.png)
+
