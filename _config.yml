@@ -3,6 +3,7 @@ theme: jekyll-theme-hacker
 github:
   is_project_page: false
 
-github_username: "pjlantz"
-twitter_username: "pjlantz"
-linkedin_id: "patrik-lantz-3a40a838"
+footer_links:
+  github_username: pjlantz
+  twitter_username: pjlantz
+  inkedin_username: patrik-lantz-3a40a838
