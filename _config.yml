@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: minima
 
 github:
   is_project_page: false
