@@ -1,7 +1,6 @@
 ## Posts
 
 - [CVE-2021-44733: Fuzzing and exploitation of a use-after-free in the Linux kernel TEE subsystem](https://github.com/pjlantz/optee-qemu/blob/main/README.md) 
-- [Pre-auth LAN RCE in Netgear R6700v3 v1.0.4.106](https://github.com/pjlantz/findings/blob/main/R6700v3.md)
 - [XSS to RCE via a Magento Help Desk extension](https://github.com/pjlantz/findings/blob/main/helpdesk.md)
 - [Command injection in TP-Link Archer A7](https://github.com/pjlantz/findings/blob/main/ArcherA7.md)
 - [TP-Link WDR4300 Post-auth RCE](https://github.com/pjlantz/findings/blob/main/WDR4300.py)
