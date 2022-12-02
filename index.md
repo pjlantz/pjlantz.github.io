@@ -3,7 +3,7 @@
 - [CVE-2021-44733: Fuzzing and exploitation of a use-after-free in the Linux kernel TEE subsystem](https://github.com/pjlantz/optee-qemu/blob/main/README.md) 
 - [Pre-auth LAN RCE in Netgear R6700](https://github.com/pjlantz/findings/blob/main/R6700v3.md)
 - [XSS to RCE via a Magento Help Desk extension](https://github.com/pjlantz/findings/blob/main/helpdesk.md)
-- [Command injection in TP-Link Archer A7](https://github.com/pjlantz/findings/blob/main/ArcherA7.md)
+- [LAN-based command injection in TP-Link Archer A7](https://github.com/pjlantz/findings/blob/main/ArcherA7.md)
 - [TP-Link WDR4300 Post-auth RCE](https://github.com/pjlantz/findings/blob/main/WDR4300.py)
 - [CVE-2020-13848: Denial of Service in Portable UPnP SDK (aka libupnp)](https://github.com/pjlantz/findings/blob/main/libupnp.md)
 - [CVE-2020-13111: Out-of-bounds write in NaviServer](https://github.com/pjlantz/findings/blob/main/navi.md)
