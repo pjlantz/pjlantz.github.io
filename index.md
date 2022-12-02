@@ -1,5 +1,6 @@
 ## Posts
 
+- [WAN-based command injection in Netgear RAX30](https://github.com/pjlantz/netgear_rax30_wan_exploit/blob/main/README.md)
 - [CVE-2021-44733: Fuzzing and exploitation of a use-after-free in the Linux kernel TEE subsystem](https://github.com/pjlantz/optee-qemu/blob/main/README.md) 
 - [Pre-auth LAN RCE in Netgear R6700](https://github.com/pjlantz/findings/blob/main/R6700v3.md)
 - [XSS to RCE via a Magento Help Desk extension](https://github.com/pjlantz/findings/blob/main/helpdesk.md)
@@ -11,4 +12,3 @@
 - [CVE-2020-12460: Heap-overflow in OpenDMARC](https://github.com/pjlantz/findings/blob/main/opendmarc.md)
 - [CVE-2019-19731: Directory traversal in Roxy Fileman for .NET](https://github.com/pjlantz/findings/blob/main/roxy.md)
 - [CVE-2019-19702: XXE injection in Modoboa DMARC plugin](https://github.com/pjlantz/findings/blob/main/modoboa.md)
-
