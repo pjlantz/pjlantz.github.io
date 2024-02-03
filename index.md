@@ -1,7 +1,9 @@
 ## Posts
 
 - [WAN-based command injection in Netgear RAX30](https://github.com/pjlantz/netgear_rax30_wan_exploit/blob/main/README.md)
-- [CVE-2021-44733: Fuzzing and exploitation of a use-after-free in the Linux kernel TEE subsystem](https://github.com/pjlantz/optee-qemu/blob/main/README.md) 
+- [CVE-2021-44733: Fuzzing and exploitation of a use-after-free in the Linux kernel TEE subsystem](https://github.com/pjlantz/optee-qemu/blob/main/README.md)
+- [Linux kernel TEE: free arbitrary page](https://lists.trustedfirmware.org/archives/list/op-tee@lists.trustedfirmware.org/thread/ZY22DSAXYTBBDJ66K2MZ2JF25EI5E5B2/)
+- [OP-TEE OS: allocate too small shared memory](https://github.com/OP-TEE/optee_os/security/advisories/GHSA-5fhv-xcxv-8v5x)
 - [Pre-auth LAN RCE in Netgear R6700](https://github.com/pjlantz/findings/blob/main/R6700v3.md)
 - [XSS to RCE via a Magento Help Desk extension](https://github.com/pjlantz/findings/blob/main/helpdesk.md)
 - [LAN-based command injection in TP-Link Archer A7](https://github.com/pjlantz/findings/blob/main/ArcherA7.md)
